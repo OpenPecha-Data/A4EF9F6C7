@@ -1,0 +1,19 @@
+segment_sources:
+  I6378A767:
+    type: origin_type
+    relation: translation
+    language: en
+  I225B8528:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e838f9b7186b40c9960b973543510058:
+    I6378A767: a732512457054ed0af3ad5baf1687f66
+    I225B8528: 652b412a39584808a4e5cd55abe3a46b
+  ab4f3de8e4ba4650aa14cfae8ec232dd:
+    I6378A767: f5c6f9fe7460449097820817f7a43835
+    I225B8528: 10136cfeb00d44009e3faf78fb59e1df
+  b783346393b54797a6efd236ba9e3996:
+    I6378A767: e81fdb6b9280413c860732ea7beae780
+    I225B8528: 0f283fe26dac4d268607cdb85184534b

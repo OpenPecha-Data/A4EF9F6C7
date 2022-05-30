@@ -1,0 +1,58 @@
+segment_sources:
+  I6378A767:
+    type: origin_type
+    relation: translation
+    language: en
+  IF843DDD2:
+    type: origin_type
+    relation: translation
+    language: es
+  IA73DF3F8:
+    type: origin_type
+    relation: translation
+    language: fr
+  IC6EC0AE1:
+    type: origin_type
+    relation: translation
+    language: nl
+  I225B8528:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  79d3b93e1f594855989fdc44d1d2ee94:
+    I6378A767: 3ea5e3be2c7040efbe3c88837d6c991d
+    IF843DDD2: eb33c40fdf7b403c91be87f54e100c76
+    IA73DF3F8: 573c028912e648348e825b36627c68e5
+    IC6EC0AE1: bc4629a0238c426696f12e5625467e31
+    I225B8528: 1ef378f0a19f425fa82f38c46afe37cb
+  3f031baa96a645de9d6f84505ecaa062:
+    I6378A767: 36b1e4a47b85491792226dae0fdc7785
+    IF843DDD2: 1663fd93231d4582b512ab7538098517
+    IA73DF3F8: 936448a4f3214dfaa74bda96d22a903b
+    IC6EC0AE1: 1ddcbca9be5548cc9d339bd43c480d9d
+    I225B8528: 58e83197e16f4c938a704b4add5e85f4
+  042547d2a63c401f9208047d6da44119:
+    I6378A767: 10fdcf57f3cd448b8e6614b5c1c10eb1
+    IF843DDD2: 4dcc36db7aec449e91887609baa5e384
+    IA73DF3F8: ecf5cee8034148ae94dee19445d728ea
+    IC6EC0AE1: 6cb14ecd844a400b8cde7aff500ad15c
+    I225B8528: 74e23872061340e1a71d12a053374d54
+  2db02e6fd44b484ba0da4325d6cbca19:
+    I6378A767: 8a5f8a15d6584709accf368fa1e940b5
+    IF843DDD2: 333fee8c572a4028ba5909b63fb3e7a0
+    IA73DF3F8: befca43ae60f4fbc8244a02bfea70a97
+    IC6EC0AE1: 81a466c1f82740adae8a3807e2eab1ac
+    I225B8528: cde87ba027af4837ac33ce95879f58b8
+  6a957b2fac4140f0bf79c870896e845f:
+    I6378A767: 39242d489f5b4a6c8616ef2ba2707210
+    IF843DDD2: 0ef1af1510284b568ef79c44b40f80a7
+    IA73DF3F8: 1f0f36841b594f5b940217eb54616b47
+    IC6EC0AE1: bccb62bf7ec1440b85ba08ed227ffd6f
+    I225B8528: 19a25038e2b14d1284412973287f4e0e
+  1436a0beba244ee6ae59e1b841c6c6bb:
+    I6378A767: 14bc8baf48dc477b8c0a1b084b34b429
+    IF843DDD2: e431ba51a39c447db3ef9503412ed639
+    IA73DF3F8: a237832a84ec4c3eaf538730efc3f170
+    IC6EC0AE1: 0d5fee2a8fa3410f802aba2b179c3c63
+    I225B8528: b5d584a0497c433f9142298b3c3a2ce9
